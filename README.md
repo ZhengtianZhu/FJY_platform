@@ -1,3 +1,9 @@
+My achievements:
+load 3D model above these icons.
+![bc7ef595d7e35e995ef49724e708c6f](https://github.com/ZhengtianZhu/FJY_platform/assets/24854133/2c51b457-e211-4677-b01d-e90e6f6d0cb9)
+
+![b0f2d07dc788c6852d3d2b93ab0e6d3](https://github.com/ZhengtianZhu/FJY_platform/assets/24854133/727c5634-bf71-4370-a5d7-c7658cf4a7af)
+
 # Vue 3 + TypeScript + Vite
 
 This template should help get you started developing with Vue 3 and TypeScript in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
